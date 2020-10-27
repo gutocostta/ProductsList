@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render 1`] = `
+<div
+  style={
+    Object {
+      "background-color": "fucsia",
+      "border": "3px solid #00f9ff",
+      "width": "800px",
+    }
+  }
+>
+  <h1>
+    Products
+  </h1>
+  <ul />
+  <a
+    href="/"
+  >
+    Add Product
+  </a>
+</div>
+`;
